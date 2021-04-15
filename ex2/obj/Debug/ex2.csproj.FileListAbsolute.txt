@@ -1,0 +1,12 @@
+C:\Users\Horea\source\repos\ex2\ex2\bin\Debug\ex2.exe.config
+C:\Users\Horea\source\repos\ex2\ex2\bin\Debug\ex2.exe
+C:\Users\Horea\source\repos\ex2\ex2\bin\Debug\ex2.pdb
+C:\Users\Horea\source\repos\ex2\ex2\obj\Debug\ex2.Properties.Resources.resources
+C:\Users\Horea\source\repos\ex2\ex2\obj\Debug\ex2.csproj.GenerateResource.cache
+C:\Users\Horea\source\repos\ex2\ex2\obj\Debug\ex2.csproj.CoreCompileInputs.cache
+C:\Users\Horea\source\repos\ex2\ex2\obj\Debug\ex2.exe
+C:\Users\Horea\source\repos\ex2\ex2\obj\Debug\ex2.pdb
+C:\Users\Horea\source\repos\ex2\ex2\obj\Debug\ex2.UI.Form1.resources
+C:\Users\Horea\source\repos\ex2\ex2\obj\Debug\ex2.UI.FormAdmin.resources
+C:\Users\Horea\source\repos\ex2\ex2\obj\Debug\ex2.UI.FormUser.resources
+C:\Users\Horea\source\repos\ex2\ex2\obj\Debug\ex2.csprojAssemblyReference.cache
